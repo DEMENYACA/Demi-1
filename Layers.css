@@ -1,37 +1,63 @@
-h1 {
-  color: rgb(108, 165, 231); 
+
+
+h1{ 
+  color: rgb(54, 13, 22); 
   font-size: 100px; 
-  background: rgb(218, 227, 230);
+  
   border-radius: 15px;
-  text-shadow: 3px 2px crimson;
+  text-shadow: 3px 2px lightblue;
   border-style: solid;
-  border-width: 15px;
-  border-color: crimson;
+  border-width: 5px;
+  border-color: rgb(211, 236, 160);
   text-align: center;
   box-shadow: 5px 10px 0px yellow;
+  background-image: url("https://www.sprig.co.za/wp-content/uploads/2011/02/green-grass-430x285.jpg");   
+}
+
+.content{
 
 }
+
+.info {
+
+}
+
+.image { float: right;
+}
+
 p { 
-    color: rgb(49, 47, 47) (224, 52, 52);
-    background: (248, 244, 244); 
-    font-size: 20px;
-    border-radius: 5px;
+      
+  
+      color: rgb(54, 13, 22);
+      font-size: 15px;
+       border-radius: 5px;
       border-style: solid;
       border-width: 10px;
-      border-color: crimson
-     
-}
+      border-color: rgb(54, 13, 22);
+      background-color: lightblue;
+      color:black
+      
+  }
+
 h2{ 
     font-size: 40px;
-    color: crimson;
-    border-radius: px;
-    border-style: dotted;
-    border-color: yellow;
-    border-width: 20px;
+    color:rgb(54, 13, 22);
+    border-style: dashed;
+    border-color: yellowgreen;
+    border-width: 15px;
     text-align: center;
-body{
-
-  margin: 20;
- 
+    text-shadow: 2px 1px yellow;
+                                                                      
 }
-
+h3{
+  font-size: 30px;
+  color: green;
+  border-radius: 25px;
+  text-shadow: 2px 1px yellow;  
+}
+footer{
+ background-color:(54,13,22);
+  margin-left: 0;
+  border-radius: 6px;
+  color: rgb(1, 14, 22)
+  
