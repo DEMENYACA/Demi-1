@@ -1,24 +1,21 @@
 
 
 h1{ 
-  color: rgb(54, 13, 22); 
+  color: rgb(83, 151, 214); 
   font-size: 100px; 
-  
+  font-family: Georgia, 'Times New Roman', Times, serif;
   border-radius: 15px;
-  text-shadow: 3px 2px lightblue;
+  text-shadow: 5px 5px (83, 151, 214);
   border-style: solid;
-  border-width: 5px;
+  border-width: 8px;
   border-color: rgb(211, 236, 160);
   text-align: center;
-  box-shadow: 5px 10px 0px yellow;
-  background-image: url("https://www.sprig.co.za/wp-content/uploads/2011/02/green-grass-430x285.jpg");   
+  box-shadow: 5px 10px 0px rgb(83, 151, 214);
+     
 }
-
 .content{ font-size: 15px; 
   border-color: (54,13,22);
-
 }
-
 .container { position: absolute;
   left: 0; 
   top: 0;
@@ -29,32 +26,22 @@ h1{
   height: 100%;
   width: 100%;
   background: url("https://www.progressiveproduce.com/images/onionman.jpg")
-
 }
 .contain { 
   background-size: cover;
-  
-
-
 }
-
 .image { float: right;
 }
-
-p { 
-      
-  
+p {  
       color: rgb(54, 13, 22);
       font-size: 15px;
-       border-radius: 5px;
+      border-radius: 5px;
       border-style: solid;
       border-width: 5px;
       border-color: rgb(54, 13, 22);
       background-color: lightblue;
-      color:black
-      
+      color:black;  
   }
-
 h2{ 
     font-size: 40px;
     color:rgb(54, 13, 22);
@@ -62,8 +49,7 @@ h2{
     border-color: yellowgreen;
     border-width: 15px;
     text-align: center;
-    text-shadow: 2px 1px yellow;
-                                                                      
+    text-shadow: 2px 1px yellow;                                                    
 }
 h3{
   font-size: 35px;
@@ -71,10 +57,11 @@ h3{
   border-radius: 25px;
   text-shadow: 2px 1px yellow;  
 }
-footer{
- background-color:(54,13,22);
-  margin-left: 0;
-  border-radius: 6px;
-  color: rgb(1, 14, 22)
-  
+    footer{
+    background-color:(54,13,22);
+    margin-left: 0;
+    border-radius: 6px;
+    color: rgb(1, 14, 22);
+    }
+
   
